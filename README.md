@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-danielscholl-backlog-manager-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-danielscholl-backlog-manager-mcp)
+
 # Backlog Manager MCP Server
 
 > A simple task tracking and backlog management MCP server for AI assistants (hack project)
